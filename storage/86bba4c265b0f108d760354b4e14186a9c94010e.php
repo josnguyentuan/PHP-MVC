@@ -1,0 +1,1 @@
+<?php /**PATH /opt/lampp/htdocs/PHP2/mvc/app/views/layouts/mobile.blade.php ENDPATH**/ ?>

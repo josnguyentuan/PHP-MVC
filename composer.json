@@ -1,0 +1,20 @@
+{
+    "name": "josnguyenanhtuan/mvc",
+    "authors": [
+        {
+            "name": "tuannaph",
+            "email": "tuannaph11683@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.8",
+        "phroute/phroute": "^2.1",
+        "illuminate/events": "^5.8",
+        "jenssegers/blade": "^1.4"
+    },
+    "autoload":{
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
